@@ -28,9 +28,10 @@
 
 
 <hr>
-## 🛠️ My Skills
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Programming Languages
+## MY_Skills
+
+###  Programming Languages
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white" alt="C">
@@ -46,7 +47,7 @@
     </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend Development
+###  Frontend Development
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML">
@@ -71,7 +72,7 @@
     </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Software & Tools
+###  Software & Tools
 <p align="center">
     <a href="#">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
@@ -126,7 +127,7 @@
     </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> IDEs
+###  IDEs
 <p align="center">
     <a href="#">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
@@ -148,7 +149,7 @@
     </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud_Platforms.gif?raw=true" width="50px"></picture> Cloud Platforms
+###  Cloud Platforms
 <p align="center">
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -161,7 +162,7 @@
     </a>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cryptocurrency.gif?raw=true" width="50px"></picture> Cryptocurrency & Blockchain
+### Cryptocurrency & Blockchain
 <p align="center">
     <a href="https://www.bitcoin.org" target="_blank">
         <img src="https://img.shields.io/badge/Bitcoin-%23F7931A.svg?style=plastic&logo=bitcoin&logoColor=white" alt="Bitcoin">
@@ -202,7 +203,7 @@
     <a href="https://www.tiktok.com/@u.dilzhan" style="margin-right: 50px;">
         <img src="https://img.icons8.com/?size=50&id=118640&format=png&color=000000" alt="TikTok">
     </a>
-    <a href="https://github.com/yourusername" style="margin-right: 50px;">
+    <a href="https://github.com/Udara-Dilshan" style="margin-right: 50px;">
         <img src="https://img.icons8.com/?size=50&id=63777&format=png&color=000000" alt="GitHub">
     </a>
 </p>
